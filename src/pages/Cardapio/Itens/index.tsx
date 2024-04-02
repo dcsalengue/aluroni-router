@@ -1,4 +1,3 @@
-import React from 'react';
 import cardapio from './itens.json'; 
 import Item from './Item';
 import styles from './Itens.module.scss';
