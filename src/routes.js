@@ -9,7 +9,6 @@ export default function AppRouter() {
     <main>
       <Router>
         <Menu />
-
         <Routes>
           <Route path='/' element={<PaginaPadrao />}>
             <Route index element={<Inicio />} />
